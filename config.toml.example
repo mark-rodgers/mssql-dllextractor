@@ -1,0 +1,11 @@
+[[servers]]
+hostname = "server01"
+port = 1433
+username = "user01"
+password = "somepassword01"
+
+[[servers]]
+hostname = "server02"
+port = 1433
+username = "user02"
+password = "somepassword02"
